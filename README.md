@@ -70,5 +70,10 @@ drwxr-xr-x 1 ksugita mkpasswd          0 1月  22 22:39 Program Files/
 ```
 # ssh-keygen -t rsa -C <mail>
 Generating public/private rsa key pair.
-Enter file in which to save the key (/home/.ssh/id_rsa): 
+Enter file in which to save the key (/home/.ssh/id_rsa):
+...
+# ls ~/.ssh
+id_rsa	id_rsa.pub
 ```
+
+成功。
